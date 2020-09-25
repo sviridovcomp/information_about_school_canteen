@@ -1,6 +1,8 @@
 # Информация о нагрузке на сервис "Школьная столовая"
 
-### Начало регистрации пользователей:
+<h3 align="center"> Начало регистрации пользователей:</h3>
 
-![graph #1](https://i.imgur.com/IS4iB5L.png)
-![graph #2](https://i.imgur.com/tkLk8AC.png)
+<p align="center">
+  <img src="https://i.imgur.com/IS4iB5L.png" alt="graph #1" />
+  <img src="https://i.imgur.com/tkLk8AC.png" alt="graph #2" />
+</p>
