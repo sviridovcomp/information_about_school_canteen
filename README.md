@@ -10,3 +10,11 @@
 <h3 align="center">Пиковая нагрузка:</h3>
 <p align="center"><b>CPU</b>: 2.5% при 8 workers.</p>
 <p align="center"><b>RAM</b>: 32mb.</p>
+
+<p align="center">
+Статистика производительности Backend:  
+Elapsed time: 30.002682s
+Req done: 673138; Success: 0.00 %
+QPS: 22435.927935; Connections: 3412
+Errors: 0; Timeouts: 0
+</p>
