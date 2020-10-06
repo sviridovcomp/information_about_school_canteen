@@ -13,8 +13,8 @@
 
 <p align="center">
 Статистика производительности Backend:  
-Elapsed time: 30.002682s
-Req done: 673138; Success: 0.00 %
-QPS: 22435.927935; Connections: 3412
-Errors: 0; Timeouts: 0
+   <p align="center">Elapsed time: 30.002682s</p>
+   <p align="center">Req done: 673138; Success: 0.00 %</p>
+   <p align="center">QPS: 22435.927935; Connections: 3412</p>
+   <p align="center">Errors: 0; Timeouts: 0</p>
 </p>
